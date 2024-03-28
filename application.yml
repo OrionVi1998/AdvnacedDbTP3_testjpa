@@ -1,0 +1,6 @@
+server.port: 9090
+spring.datasource.username: admin
+spring.datasource.password: 1234
+spring.datasource.driver.class: org.postgresql.Driver
+spring.datasource.url: jdbc:postgresql://localhost/lab1
+
